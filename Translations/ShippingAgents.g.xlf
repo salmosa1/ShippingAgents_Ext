@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="ShippingAgents">
+    <body>
+      <group id="body">
+        <trans-unit id="PageExtension 3356164793 - Action 1267154912 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Shipping Agent</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Transportista"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesOrder SAS - Action ShipAgeSer SAS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3356164793 - Action 407706435 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>GetShipmentLabel</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Descargar etiqueta de envío"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesOrder SAS - Action GetShipmentLabel SAS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3356164793 - Action 3534654626 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Tracking Information</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Seguimiento de envío"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesOrder SAS - Action GetTrackingInfo SAS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3356164793 - Action 4251389975 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Send to Shipping Agent</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Enviar a transportista"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension SalesOrder SAS - Action SendShptToShippAg SAS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2567921334 - Field 3072896319 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2271291437">
+          <source>Shipping Agent Setup</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Conf. transportista"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ShippingAgent SAS - Field Shipping Agent Setup SAS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4158871343 - EnumValue 1371923692 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source> </source>
+          <note from="Developer" annotates="general" priority="2">ESP=" "</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Shipping Agents Setups SAS - EnumValue   - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4158871343 - EnumValue 1422171468 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DHL</source>
+          <note from="Developer" annotates="general" priority="2">ESP="DHL"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Shipping Agents Setups SAS - EnumValue DHL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4158871343 - EnumValue 1702978532 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GLS</source>
+          <note from="Developer" annotates="general" priority="2">ESP="GLS"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Shipping Agents Setups SAS - EnumValue GLS - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

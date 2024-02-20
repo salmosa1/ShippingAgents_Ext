@@ -1,0 +1,35 @@
+{
+  "id": "375809fe-2cca-4d30-9824-7e98f1d4bd9a",
+  "name": "ShippingAgents",
+  "publisher": "Morsa Apps",
+  "version": "1.0.0.0",
+  "brief": "Connection to several shipping agents",
+  "description": "Connection to several shipping agents to send shipments, print shipping labels and see order tracking.",
+  "privacyStatement": "https://www.privacyStatement.com",
+  "EULA": "https://www.eula.com",
+  "help": "https://www.help.com",
+  "contextSensitiveHelpUrl": "https://www.contextSensitiveHelpUrl.com",
+  "url": "https://www.app.com",
+  "logo": "./logo/Morsa_Apps.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 1000000,
+      "to": 1000149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "12.0",
+  "features": [
+    "NoImplicitWith",
+    "NoPromotedActionProperties",
+    "TranslationFile"
+  ]
+}
