@@ -16,7 +16,7 @@
     "al.ruleSetPath": "./.vscode/ruleSet.json",
     "al.enableCodeActions": false,
     "editor.codeActionsOnSave": {
-        "source.fixAll.al": true
+        "source.fixAll.al": "always"
     },
     "alOutline.codeActionsOnSave": [
         "SortProperties",
